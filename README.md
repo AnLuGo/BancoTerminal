@@ -1,5 +1,5 @@
 ## Desafio Dio
-#### Autores
+#### Autor
 - [André Luís](https://github.com/AnLuGo)
 
 Esse é um desafio Java Basico da formação Java Developer. Conta Banco uma pequena reforço de aprendizado das aulas Java Basico.
